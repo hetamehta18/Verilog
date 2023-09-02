@@ -1,1 +1,2 @@
 # Verilog
+Author - Heta Mehta
